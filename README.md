@@ -1,362 +1,300 @@
 <div align="center">
 
-# ⚡ STROMXAKASH
-
-### `Developer` • `Minecraft Engineer` • `Cloud Builder` • `Discord Bot Developer`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=STROMXAKASH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20REBUILD&descAlignY=58&descSize=16"/>
-
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         ⚡ STROMXAKASH ⚡                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/StromxAkash06">
-<img src="https://img.shields.io/github/followers/StromxAkash06?style=for-the-badge&logo=github&label=FOLLOWERS&color=6e40c9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=STROMXAKASH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20CONQUER&descSize=18&descAlignY=58&color=0:050816,25:111a3a,55:302b63,80:0b6e99,100:050816" width="100%"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER;MINECRAFT+SERVER+ENGINEER;DISCORD+BOT+DEVELOPER;PTERODACTYL+%2F+CLOUD+BUILDER;TURNING+IDEAS+INTO+SYSTEMS+%E2%9A%A1" />
+
+
+<a href="https://github.com/StromxAkash06?tab=followers">
+<img src="https://img.shields.io/github/followers/StromxAkash06?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" />
 </a>
 <a href="https://github.com/StromxAkash06?tab=repositories">
-<img src="https://img.shields.io/github/stars/StromxAkash06?style=for-the-badge&logo=github&label=STARS&color=00d9ff"/>
+<img src="https://img.shields.io/github/stars/StromxAkash06?style=for-the-badge&logo=github&label=STARS&color=0ea5e9" />
 </a>
-<a href="https://github.com/StromxAkash06">
-<img src="https://komarev.com/ghpvc/?username=StromxAkash06&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=StromxAkash06&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </div>
-
----
 
 <div align="center">
 
-## 🧬 `WHO AM I?`
+01 — SYSTEM ONLINE
+<img src="https://github-profile-trophy.vercel.app/?username=StromxAkash06&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" />
 
 </div>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ⚡ STROMXAKASH                                          ║
-║                                                          ║
-║   > Developer                                            ║
-║   > Minecraft Server Engineer                            ║
-║   > Discord Bot Developer                                ║
-║   > Pterodactyl / Cloud Builder                          ║
-║   > Web Developer                                        ║
-║   > UI / UX Explorer                                     ║
-║                                                          ║
-║   Building digital systems that don't look boring.       ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-> **I don't just write code. I build systems, experiences and crazy ideas.**
-
----
-
-# 🌌 THE STROM LAB
-
-<div align="center">
-
-```text
-                    ⚡
-                   / \
-                  /   \
-         ┌───────◆───────┐
-         │   STROM LAB   │
-         └───────◆───────┘
-          /      │      \
-         /       │       \
-      WEB      CLOUD     BOTS
-       │         │         │
-       ▼         ▼         ▼
-    Next.js   Pterodactyl  Discord
-    React     Linux        Lavalink
-    UI/UX     AWS          Automation
-```
-
-</div>
-
----
-
-# 🛠️ TECH ARSENAL
-
-<div align="center">
-
-### 💻 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash"/>
-
-### ⚛️ WEB & UI
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel"/>
-
-### ☁️ CLOUD & INFRA
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,docker,cloudflare,nginx"/>
-
-### 🤖 DISCORD & AUTOMATION
-
-<img src="https://skillicons.dev/icons?i=nodejs,discordjs,express"/>
-
-### 🗄️ DATABASE & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,git,github,vscode"/>
-
-</div>
-
----
-
-# 🚀 WHAT I BUILD
 
 <table>
 <tr>
-<td width="50%">
+<td width="52%" valign="top">
 
-## 🌐 WEB
-
-```text
-▸ Next.js Applications
-▸ React Interfaces
-▸ Futuristic Landing Pages
-▸ Developer Portfolios
-▸ Dashboards
-▸ API Integrations
-```
-
+⚡ STROM CORE
+┌───────────────────────────────────────┐
+│                                       │
+│   NAME       : STROMXAKASH            │
+│   ROLE       : BUILDER                │
+│   MODE       : 24/7                   │
+│   STATUS     : ● ONLINE               │
+│   MINDSET    : SHIP IT               │
+│                                       │
+│   "Build things people remember."     │
+│                                       │
+└───────────────────────────────────────┘
 </td>
+<td width="48%" valign="top">
 
-<td width="50%">
-
-## 🎮 MINECRAFT
-
-```text
-▸ Minecraft Networks
-▸ Paper / Spigot
-▸ Geyser / Floodgate
-▸ Pterodactyl
-▸ Wings
-▸ Server Infrastructure
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🤖 DISCORD
-
-```text
-▸ Discord.js Bots
-▸ Moderation
-▸ Music Systems
-▸ Lavalink
-▸ Tickets
-▸ Dashboards
-```
-
-</td>
-
-<td width="50%">
-
-## ☁️ CLOUD
-
-```text
-▸ VPS Infrastructure
-▸ AWS
-▸ Linux
-▸ Reverse Proxy
-▸ Cloudflare
-▸ Deployment Systems
-```
+🛰️ LIVE SIGNAL
+╭──────────────────────────────╮
+│  CONNECTION      ███████ 100%│
+│  CREATIVITY      ███████ 100%│
+│  COFFEE          ██████░  90%│
+│  DEBUGGING       ███████ 100%│
+│  SLEEP           ██░░░░░  25%│
+╰──────────────────────────────╯
+<img src="https://github-readme-stats.vercel.app/api?username=StromxAkash06&show_icons=true&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=8b5cf6&text_color=cbd5e1&rank_icon=github" width="100%"/>
 
 </td>
 </tr>
 </table>
 
----
-
-# ⚡ CURRENTLY BUILDING
-
 <div align="center">
 
-### 🟣 STROMXAKASH ECOSYSTEM
-
-**A collection of projects focused on gaming, cloud infrastructure, automation and futuristic web experiences.**
-
-<br>
-
-`Minecraft` ─── `Discord` ─── `Cloud` ─── `Web` ─── `Automation`
+02 — THE STROM DIMENSION
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E5FF" width="75%"/>
 
 </div>
 
----
-
-# 🎮 MINECRAFT UNIVERSE
-
+                              ⚡
+                         .-========-.
+                      .-'    STROM    '-.
+                    .'                  '.
+                   /    WEB     CLOUD    \
+                  ;                      ;
+                  |     ╭──────────╮     |
+                  |     │  SYSTEM  │     |
+                  |     ╰──────────╯     |
+                  ;    /     │      \    ;
+                   \  /      │       \  /
+                    '.       │       .'
+                      '-.____│____.-'
+                             │
+                 ┌───────────┼───────────┐
+                 ▼           ▼           ▼
+              🎮 GAMES     🤖 BOTS     🌐 WEB
+                 │           │           │
+                 └───────────┼───────────┘
+                             ▼
+                         🚀 SHIP
 <div align="center">
 
-```text
-        ╔══════════════════════════════╗
-        ║        MINECRAFT LAB         ║
-        ╠══════════════════════════════╣
-        ║                              ║
-        ║   ⚔ SERVER DEVELOPMENT       ║
-        ║   ⚡ PLUGIN SYSTEMS          ║
-        ║   🌐 NETWORK INFRA           ║
-        ║   🛰 PTERODACTYL             ║
-        ║   🔥 GEEYSER / FLOODGATE     ║
-        ║   ☁ CLOUD HOSTING            ║
-        ║                              ║
-        ╚══════════════════════════════╝
-```
+I build digital systems across web, gaming, automation and infrastructure.
 
 </div>
 
----
-
-# 🤖 DISCORD AUTOMATION
-
 <div align="center">
 
-### `STROM BOT SYSTEM`
-
-```text
-                    ┌──────────────┐
-                    │   DISCORD    │
-                    └──────┬───────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-         MODERATION     MUSIC        UTILITY
-              │            │            │
-              ▼            ▼            ▼
-          AUTOMATION    LAVALINK      SYSTEMS
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                    ┌──────────────┐
-                    │  DASHBOARD   │
-                    └──────────────┘
-```
+03 — TECH ARSENAL
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,express&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,aws,cloudflare,nginx,mysql,mongodb,postgres,redis&perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,discordjs,bash,java&perline=7" />
 
 </div>
 
----
-
-# 📊 GITHUB COMMAND CENTER
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=StromxAkash06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D9FF&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StromxAkash06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
-
+04 — WHAT I BUILD
 </div>
 
-<br>
+<table>
+<tr>
+<td align="center" width="25%">
+
+🎮
+MINECRAFT
+Paper
+Spigot
+Geyser
+Floodgate
+Pterodactyl
+Wings
+</td>
+
+<td align="center" width="25%">
+
+🤖
+DISCORD
+discord.js
+Lavalink
+Moderation
+Music
+Tickets
+Dashboards
+</td>
+
+<td align="center" width="25%">
+
+☁️
+CLOUD
+Linux
+AWS
+Docker
+Cloudflare
+Nginx
+VPS
+</td>
+
+<td align="center" width="25%">
+
+🌐
+WEB
+Next.js
+React
+Tailwind
+APIs
+UI/UX
+Vercel
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=StromxAkash06&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00D9FF&currStreakLabel=FFFFFF"/>
-
+05 — PROJECT UNIVERSE
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 📈 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StromxAkash06&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=00D9FF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 THE CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
----
-
-# 🏗️ PROJECT ARCHITECTURE
-
-```text
-                         ⚡ STROMXAKASH
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-          🌐 WEB            🎮 GAMING         🤖 BOTS
-             │                 │                 │
-       ┌─────┼─────┐       ┌───┼────┐       ┌────┼────┐
-       │     │     │       │   │    │       │    │    │
-     React Next  Vercel   MC  Ptero AWS    Music Mod  API
-       │     │     │       │   │    │       │    │    │
-       └─────┼─────┘       └───┼────┘       └────┼────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                       🚀 PRODUCTION
-```
-
----
-
-# 💜 WHY STROM?
-
-<div align="center">
-
-> **"Ideas are cheap. Shipping is the hard part."**
-
-<br>
-
-```text
-THINK → BUILD → TEST → BREAK → FIX → SHIP → REPEAT
-```
-
-</div>
-
----
-
-# 🎯 2026 MISSION
-
-- ⚡ Build bigger full-stack projects
-- ☁️ Improve cloud & infrastructure engineering
-- 🤖 Build smarter Discord automation
-- 🎮 Create better Minecraft infrastructure
-- 🌐 Build premium web experiences
-- 🧠 Learn deeper system architecture
-- 🚀 Ship more projects publicly
-
----
-
-# 🌐 CONNECT
-
-<div align="center">
-
+⚡ STROMXAKASH
+Personal developer ecosystem
+▸ Premium portfolio
+▸ Developer experiments
+▸ Web experiences
+▸ Open-source resources
+▸ Creative interfaces
 <a href="https://github.com/StromxAkash06">
-<img src="https://img.shields.io/badge/GitHub-STROMXAKASH-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://stromxakash.bond">
-<img src="https://img.shields.io/badge/Website-STROMXAKASH-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+</td>
 
-<br><br>
+<td width="50%" valign="top">
 
-### ⚡ BUILD SOMETHING INSANE.
+🎮 MINECRAFT LAB
+Server & infrastructure
+▸ Minecraft networks
+▸ Pterodactyl panels
+▸ Wings nodes
+▸ Plugin systems
+▸ Geyser / Floodgate
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="50%" valign="top">
 
----
+🤖 NOVACORE
+Discord automation
+▸ Moderation
+▸ Music / Lavalink
+▸ Tickets
+▸ Utility systems
+▸ Web dashboard
+</td>
+
+<td width="50%" valign="top">
+
+☁️ CLOUD SYSTEMS
+Infrastructure experiments
+▸ VPS deployments
+▸ Linux servers
+▸ Reverse proxies
+▸ Cloud hosting
+▸ Automation
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
+06 — GITHUB COMMAND CENTER
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StromxAkash06&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=cbd5e1" height="300"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=StromxAkash06&theme=transparent&hide_border=true&ring=8b5cf6&fire=00e5ff&currStreakLabel=ffffff&sideLabels=cbd5e1&dates=64748b" height="300"/>
 
-### `STROMXAKASH // SYSTEM ONLINE`
 
-**© 2026 StromxAkash**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StromxAkash06&bg_color=00000000&color=cbd5e1&line=00e5ff&point=8b5cf6&area=true&hide_border=true" width="95%"/>
 
+</div>
+
+<div align="center">
+
+07 — CONTRIBUTION MATRIX
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+<div align="center">
+
+08 — DEVELOPER TERMINAL
+╭──────────────────────────────────────────────────────────────╮
+│  strom@core:~$ ./launch.sh                                  │
+│                                                              │
+│  [✓] Loading identity...                         COMPLETE    │
+│  [✓] Initializing creativity...                  COMPLETE    │
+│  [✓] Connecting to GitHub...                     CONNECTED   │
+│  [✓] Starting Minecraft systems...               ONLINE      │
+│  [✓] Starting Discord systems...                 ONLINE      │
+│  [✓] Starting cloud infrastructure...            ONLINE      │
+│                                                              │
+│  > SYSTEM STATUS:                                           │
+│                                                              │
+│       WEB       ████████████████████  ONLINE                │
+│       CLOUD     ████████████████████  ONLINE                │
+│       BOTS      ████████████████████  ONLINE                │
+│       GAMES     ████████████████████  ONLINE                │
+│                                                              │
+│  strom@core:~$ echo "LET'S BUILD."                          │
+│  LET'S BUILD.                                                │
+╰──────────────────────────────────────────────────────────────╯
+</div>
+
+<div align="center">
+
+09 — CURRENT MISSION
+SYSTEM	STATUS
+🌐 Full-stack development	BUILDING
+🎮 Minecraft infrastructure	ONLINE
+🤖 Discord automation	EVOLVING
+☁️ Cloud engineering	EXPANDING
+🎨 Premium UI/UX	UPGRADING
+🚀 New experiments	ALWAYS
+
+
+</div>
+
+<div align="center">
+
+10 — CONNECT
+<a href="https://github.com/StromxAkash06">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://stromxakash.bond">
+<img src="https://img.shields.io/badge/WEBSITE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+
+
+
+⚡ BUILD. BREAK. REBUILD. SHIP.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050816,30:302b63,65:0b6e99,100:050816&animation=fadeIn"/>
+
+<sub>STROMXAKASH // SYSTEM ONLINE // 2026</sub>
 </div>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#02040a"/><stop offset=".48" stop-color="#071225"/><stop offset="1" stop-color="#03050d"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#28d7ff"/><stop offset=".48" stop-color="#8ef6ff"/><stop offset="1" stop-color="#5d6dff"/>
+  </linearGradient>
+  <linearGradient id="text" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".42" stop-color="#bff8ff"/><stop offset="1" stop-color="#62b9ff"/>
+  </linearGradient>
+  <radialGradient id="orb"><stop stop-color="#66f4ff" stop-opacity=".8"/><stop offset=".38" stop-color="#277cff" stop-opacity=".22"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+    <path d="M44 0H0V44" fill="none" stroke="#65cfff" stroke-opacity=".075"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="470" rx="28" fill="url(#bg)"/>
+<rect x="18" y="18" width="1164" height="434" rx="22" fill="url(#grid)" stroke="url(#edge)" stroke-opacity=".38"/>
+<ellipse cx="600" cy="210" rx="330" ry="170" fill="url(#orb)" filter="url(#soft)"/>
+<g fill="#9ef7ff">
+  <circle cx="110" cy="92" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1030" cy="110" r="2"><animate attributeName="opacity" values="1;.15;1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="170" cy="355" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1040" cy="340" r="1.5"><animate attributeName="opacity" values=".1;.9;.1" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+<g opacity=".8" fill="none" stroke="url(#edge)" filter="url(#glow)">
+  <ellipse cx="600" cy="230" rx="265" ry="84" transform="rotate(-12 600 230)" stroke-width="2"/>
+  <ellipse cx="600" cy="230" rx="265" ry="84" transform="rotate(48 600 230)" stroke-opacity=".28"/>
+  <ellipse cx="600" cy="230" rx="210" ry="66" transform="rotate(90 600 230)" stroke-opacity=".18"/>
+</g>
+<g fill="none" stroke="#7defff" stroke-linecap="round" filter="url(#glow)">
+  <path d="M135 165 L175 143 L160 178 L206 158" stroke-width="3">
+    <animate attributeName="opacity" values=".15;1;.15" dur="1.7s" repeatCount="indefinite"/>
+  </path>
+  <path d="M1030 180 L1062 155 L1050 191 L1090 168" stroke-width="3">
+    <animate attributeName="opacity" values="1;.15;1" dur="2.1s" repeatCount="indefinite"/>
+  </path>
+</g>
+<g text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
+  <text x="600" y="104" fill="#83edff" font-size="14" font-weight="700" letter-spacing="6">STROMXAKASH • DIGITAL DIMENSION</text>
+  <text x="600" y="230" fill="url(#text)" font-size="76" font-weight="900" letter-spacing="8" filter="url(#glow)">STROMXAKASH</text>
+  <text x="600" y="275" fill="#d9faff" font-size="19" letter-spacing="4">FULL-STACK • CLOUD • MINECRAFT • DISCORD</text>
+  <g transform="translate(600 325)">
+    <rect x="-126" y="-22" width="252" height="44" rx="22" fill="#07192a" stroke="#5be7ff" stroke-opacity=".65"/>
+    <circle cx="-91" cy="0" r="5" fill="#61f7ff"><animate attributeName="r" values="4;7;4" dur="1.2s" repeatCount="indefinite"/></circle>
+    <text x="-75" y="6" text-anchor="start" fill="#bff9ff" font-size="14" font-weight="700" letter-spacing="2">SYSTEM ONLINE</text>
+  </g>
+  <text x="600" y="392" fill="#7896ad" font-size="13" letter-spacing="3">BUILD • SHIP • BREAK • REBUILD • REPEAT</text>
+</g>
+</svg>

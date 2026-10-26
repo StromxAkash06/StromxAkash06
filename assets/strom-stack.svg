@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050914"/><stop offset=".55" stop-color="#09192a"/><stop offset="1" stop-color="#050811"/></linearGradient>
+ <linearGradient id="c"><stop stop-color="#58edff"/><stop offset="1" stop-color="#587cff"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="6" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="330" rx="28" fill="url(#b)" stroke="#4ddfff" stroke-opacity=".35"/>
+<g fill="none" stroke="url(#c)" opacity=".35">
+ <ellipse cx="550" cy="165" rx="390" ry="92"/><ellipse cx="550" cy="165" rx="310" ry="62" transform="rotate(-25 550 165)"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <circle cx="550" cy="165" r="72" fill="#071b2c" stroke="#67efff" stroke-width="2" filter="url(#g)"/>
+ <text x="550" y="160" fill="#fff" font-size="25" font-weight="900">STROM</text>
+ <text x="550" y="184" fill="#76edff" font-size="11" letter-spacing="3">CORE</text>
+ <g fill="#d9fbff" font-size="15" font-weight="700">
+  <g><rect x="125" y="65" width="150" height="42" rx="21" fill="#081a2a" stroke="#48dcff"/><text x="200" y="91">NEXT.JS</text></g>
+  <g><rect x="820" y="65" width="150" height="42" rx="21" fill="#081a2a" stroke="#48dcff"/><text x="895" y="91">NODE.JS</text></g>
+  <g><rect x="92" y="224" width="170" height="42" rx="21" fill="#081a2a" stroke="#48dcff"/><text x="177" y="250">DISCORD.JS</text></g>
+  <g><rect x="838" y="224" width="150" height="42" rx="21" fill="#081a2a" stroke="#48dcff"/><text x="913" y="250">PYTHON</text></g>
+  <g><rect x="410" y="34" width="120" height="38" rx="19" fill="#081a2a" stroke="#5d82ff"/><text x="470" y="58">AWS</text></g>
+  <g><rect x="570" y="258" width="130" height="38" rx="19" fill="#081a2a" stroke="#5d82ff"/><text x="635" y="282">DOCKER</text></g>
+ </g>
+ <g fill="#8cf6ff" font-size="12" letter-spacing="2"><text x="550" y="320">WEB • AUTOMATION • INFRA • GAME SERVERS</text></g>
+</g>
+</svg>

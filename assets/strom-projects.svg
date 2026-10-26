@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03050b"/><stop offset=".5" stop-color="#081525"/><stop offset="1" stop-color="#03050c"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#58efff"/><stop offset="1" stop-color="#6178ff"/></linearGradient>
+ <filter id="g"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="500" rx="30" fill="url(#bg)" stroke="#5beaff" stroke-opacity=".3"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <g transform="translate(45 45)">
+  <rect width="490" height="185" rx="24" fill="#071525" stroke="url(#line)" stroke-opacity=".65"/>
+  <circle cx="78" cy="75" r="38" fill="#0b2a3c" stroke="#5defff" filter="url(#g)"/>
+  <path d="M55 58l23-13 23 13v29L78 100 55 87z" fill="none" stroke="#d9fbff" stroke-width="3"/>
+  <text x="140" y="68" fill="#83efff" font-size="12" font-weight="700" letter-spacing="3">01 / MINECRAFT</text>
+  <text x="140" y="101" fill="#fff" font-size="27" font-weight="900">GAME SYSTEMS</text>
+  <text x="140" y="132" fill="#8da9bd" font-size="14">Servers • Plugins • Panels • Infrastructure</text>
+ </g>
+ <g transform="translate(565 45)">
+  <rect width="490" height="185" rx="24" fill="#071525" stroke="url(#line)" stroke-opacity=".65"/>
+  <circle cx="78" cy="75" r="38" fill="#0b2a3c" stroke="#5defff" filter="url(#g)"/>
+  <rect x="56" y="57" width="44" height="34" rx="10" fill="none" stroke="#d9fbff" stroke-width="3"/>
+  <circle cx="69" cy="73" r="3" fill="#d9fbff"/><circle cx="87" cy="73" r="3" fill="#d9fbff"/>
+  <path d="M67 84h22" stroke="#d9fbff" stroke-width="3" stroke-linecap="round"/>
+  <text x="140" y="68" fill="#83efff" font-size="12" font-weight="700" letter-spacing="3">02 / DISCORD</text>
+  <text x="140" y="101" fill="#fff" font-size="27" font-weight="900">BOT ECOSYSTEMS</text>
+  <text x="140" y="132" fill="#8da9bd" font-size="14">Automation • Music • Dashboards • Tools</text>
+ </g>
+ <g transform="translate(45 270)">
+  <rect width="490" height="185" rx="24" fill="#071525" stroke="url(#line)" stroke-opacity=".65"/>
+  <circle cx="78" cy="75" r="38" fill="#0b2a3c" stroke="#5defff" filter="url(#g)"/>
+  <path d="M52 84c0-19 12-31 26-31s26 12 26 31v5H52z" fill="none" stroke="#d9fbff" stroke-width="3"/>
+  <path d="M60 93h36" stroke="#d9fbff" stroke-width="3"/>
+  <text x="140" y="68" fill="#83efff" font-size="12" font-weight="700" letter-spacing="3">03 / CLOUD</text>
+  <text x="140" y="101" fill="#fff" font-size="27" font-weight="900">INFRASTRUCTURE</text>
+  <text x="140" y="132" fill="#8da9bd" font-size="14">Linux • VPS • AWS • Deployment • Hosting</text>
+ </g>
+ <g transform="translate(565 270)">
+  <rect width="490" height="185" rx="24" fill="#071525" stroke="url(#line)" stroke-opacity=".65"/>
+  <circle cx="78" cy="75" r="38" fill="#0b2a3c" stroke="#5defff" filter="url(#g)"/>
+  <rect x="55" y="55" width="46" height="38" rx="6" fill="none" stroke="#d9fbff" stroke-width="3"/>
+  <path d="M63 66h30M63 75h20M63 84h26" stroke="#d9fbff" stroke-width="3" stroke-linecap="round"/>
+  <text x="140" y="68" fill="#83efff" font-size="12" font-weight="700" letter-spacing="3">04 / WEB</text>
+  <text x="140" y="101" fill="#fff" font-size="27" font-weight="900">DIGITAL EXPERIENCES</text>
+  <text x="140" y="132" fill="#8da9bd" font-size="14">React • Next.js • UI • Vercel • Motion</text>
+ </g>
+</g>
+</svg>

@@ -2,55 +2,37 @@
 
 <img src="./assets/strom-hero.svg" width="100%" alt="STROMXAKASH — Digital Dimension"/>
 
-<br/>
-
 <a href="https://github.com/StromxAkash06">
-  <img src="https://img.shields.io/github/followers/StromxAkash06?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=111827" />
+<img src="https://img.shields.io/github/followers/StromxAkash06?label=FOLLOW&style=for-the-badge&logo=github&logoColor=white&color=111827" />
 </a>
 <a href="https://github.com/StromxAkash06?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0b1626?style=for-the-badge&logo=github&logoColor=7defff" />
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0b1626?style=for-the-badge&logo=github&logoColor=7defff" />
 </a>
 <a href="https://stromxakash.bond">
-  <img src="https://img.shields.io/badge/PORTFOLIO-STROMXAKASH.BOND-071a2b?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-STROMXAKASH.BOND-071a2b?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ⚡ I BUILD DIGITAL SYSTEMS THAT FEEL ALIVE.
-
-**Full-stack development · Minecraft infrastructure · Discord automation · Cloud deployments · futuristic UI**
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/strom-projects.svg" width="100%" alt="What StromxAkash builds"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🧊 THE STACK
-
-<img src="./assets/strom-stack.svg" width="100%" alt="Strom technology stack"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,java,html,css,tailwind,discordjs,git,github,linux,docker,aws,vercel&perline=9" />
+<img src="./assets/strom-intro.svg" width="100%" alt="StromxAkash profile introduction"/>
 
-</div>
+<br/><br/>
+
+<img src="./assets/strom-projects.svg" width="100%" alt="What StromxAkash builds"/>
+
+<br/><br/>
+
+<img src="./assets/strom-stack.svg" width="100%" alt="Strom technology stack"/>
 
 <br/>
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,java,html,css,tailwind,discordjs,git,github,linux,docker,aws,vercel&perline=9" />
+</div>
 
-## 📡 CURRENT SIGNAL
+<br/><br/>
+
+<div align="center">
 
 <table>
 <tr>
@@ -133,6 +115,5 @@ Break → improve → repeat
 
 <br/>
 
-<div align="center">
 <img src="./assets/strom-footer.svg" width="100%" alt="Build what feels impossible"/>
 </div>
